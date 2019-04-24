@@ -1,4 +1,4 @@
-#Buket Üren
+#Author:Buket Üren
 #1.Soru
 metin = "Açık bilim, araştırma çıktılarına ve süreçlerine herkesin serbestçe erişmesini, bunların ortak kullanımını, dağıtımını ve üretimini kolaylaştıran bilim uygulamasıdır."
 print(metin[:19])
